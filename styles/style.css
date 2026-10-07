@@ -1,0 +1,11 @@
+  h1 {
+            color: darkgreen;
+            font-family: Georgia, serif;
+            text-align: center;
+        }
+
+        p {
+            color: darkgreen;
+            font-size: 1.1rem;
+            line-height: 1.6;
+        }
